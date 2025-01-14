@@ -47,7 +47,7 @@
 ## 🔗 Links
 
 - **Live Demo**: [Plants Are Good](https://ashish-more-02.github.io/Plants-are-good/)
-- **GitHub Repository**: [Plants Are Good Repo](#) _(Add the repository link here if available)_
+- **GitHub Repository**: [Plants Are Good Repo](https://github.com/Ashish-More-02/Plants-are-good)
 
 ---
 
